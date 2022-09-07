@@ -1,5 +1,8 @@
 ### Bem-vindo! 👋
 
+![](https://komarev.com/ghpvc/?username=igorsantos-p&label=🔭_Visualizações:)
+[![Igor]( https://img.shields.io/github/followers/igorsantos-p?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/igorsantos-p))
+
 ##
 
 <div>
